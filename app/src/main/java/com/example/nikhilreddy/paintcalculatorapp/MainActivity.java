@@ -1,3 +1,4 @@
+//This is Paint Calculator App
 package com.example.nikhilreddy.paintcalculatorapp;
 
 import android.support.v7.app.AppCompatActivity;

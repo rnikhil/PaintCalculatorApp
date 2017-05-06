@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Paint Calculator App</string>
+    <string name="txtTitle">Paint Calculator</string>
+    <string name="txtLength">Enter the Length</string>
+    <string name="txtHeight">Enter the Height</string>
+    <string name="prompt">Select Color for the Wall</string>
+    <string name="description">Color Image</string>
+    <string name="btnCost">No.Of Gallons</string>
+
+    <string-array name="spnColors">
+        <item>"Select the Color for the Wall"</item>
+        <item>"Cream"</item>
+        <item>"Green"</item>
+        <item>"Blue"</item>
+        <item>"Red"</item>
+        <item>"Yellow"</item>
+    </string-array>
+
+</resources>
